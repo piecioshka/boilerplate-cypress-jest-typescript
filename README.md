@@ -1,6 +1,6 @@
 # boilerplate-cypress-jest-typescript
 
-🍴 Starter with [Cypress](https://www.cypress.io/)
+🍴 Starter with Cypress & Jest & TypeScript
 
 ## Features
 

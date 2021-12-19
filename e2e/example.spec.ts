@@ -1,5 +1,3 @@
-/// <reference types="Cypress" />
-
 describe('General', function () {
     it('should display a logo', function () {
         cy.visit('/blog/');
